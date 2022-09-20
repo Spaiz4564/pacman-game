@@ -20,7 +20,7 @@ function init() {
 
     renderBoard(gBoard, '.board-container')
     gGame.isOn = true
-    cherryInterval = setInterval(addCherry, 7000)
+    cherryInterval = setInterval(addCherry, 1000)
 }
 
 
