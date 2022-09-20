@@ -1,6 +1,6 @@
 'use strict'
 const CHERRY = '🍒'
-const PACMAN = '⍩⃝'
+const PACMAN = 'ᗧ'
 var gEmojiDir = 0
 var gPacman;
 var foodCount = 0
